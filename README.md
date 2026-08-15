@@ -2,7 +2,7 @@
 
 This repository is a redirect stub. Graffito now lives at
 **[github.com/ByteApps/graffito](https://github.com/ByteApps/graffito)**,
-and its web pages at **https://byteapps.github.io/graffito/**.
+and its web pages at **https://byteapps.com/graffito/**.
 
 The stub exists because GitHub Pages URLs do **not** redirect when a
 repository is transferred, and `objsal.github.io/graffito/...` is baked into
